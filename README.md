@@ -2,7 +2,7 @@
 
 ## Description
 
-Add a new facet to filter by year and month.
+Add a new facet to filter by year.
 
 ## Installation
 
